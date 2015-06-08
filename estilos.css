@@ -9,3 +9,11 @@ h1 {
 li {
   color: red;
 }
+
+#participantes li {
+  color: green;
+}
+
+#comandos li {
+  color: blue;
+}
