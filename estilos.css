@@ -1,6 +1,8 @@
 body {
   background: grey;
   background-image: url("elefante.jpg");
+  background-size: 100%;
+  font-family: consolas;
 }
 
 h1 {
@@ -13,8 +15,10 @@ li {
 
 #participantes li {
   color: green;
+  list-style: decimal;
 }
 
 #comandos li {
   color: blue;
+  list-style: decimal;
 }
