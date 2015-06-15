@@ -1,6 +1,9 @@
 body {
-  background: grey;
-  background-image: url("elefante.jpg");
+  /*background: grey;
+  background-image: url("elefante.jpg");*/
+  background-color: #89CFFF;
+  text-align: justify;
+  font-family: "Lobster", "Times", serif;
 }
 
 h1 {
