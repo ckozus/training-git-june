@@ -1,7 +1,6 @@
 body {
-  /*background: grey;
-  background-image: url("elefante.jpg");*/
-  background-color: #89CFFF;
+  background-image: url("elefante.jpg");
+  background-size: 100%;
   text-align: justify;
   font-family: "Lobster", "Times", serif;
 }
@@ -16,8 +15,10 @@ li {
 
 #participantes li {
   color: green;
+  list-style: decimal;
 }
 
 #comandos li {
   color: blue;
+  list-style: decimal;
 }
